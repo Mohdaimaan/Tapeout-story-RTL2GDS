@@ -56,7 +56,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-
+https://github.com/Mohdaimaan/Tapeout-story-RTL2GDS/blob/main/Week-0/README.md
 
 ## ✅ **Iverilog Installation**
 ```bash
