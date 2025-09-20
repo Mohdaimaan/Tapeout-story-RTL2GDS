@@ -70,7 +70,7 @@ $ sudo apt-get install iverilog
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
-![alt text]()
+![alt text](https://github.com/Mohdaimaan/Tapeout-story-RTL2GDS/blob/main/Week-0/Gtkwave.jpeg)
 
 
 
