@@ -56,7 +56,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![alt text](https://github.com/Mohdaimaan/Tapeout-story-RTL2GDS/blob/main/Week-0/README.md)
+![alt text]()
 
 
 ## ✅ **Iverilog Installation**
@@ -64,13 +64,13 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![alt text](https://github.com/Mohdaimaan/Tapeout-story-RTL2GDS/blob/main/Week-0/README.md)
+![alt text](https://github.com/Mohdaimaan/Tapeout-story-RTL2GDS/blob/main/Week-0/Iverilog.jpeg)
 ## ✅ **Gtkwave**
 ```
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
-
+![alt text]()
 
 
 
