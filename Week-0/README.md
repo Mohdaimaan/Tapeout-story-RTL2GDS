@@ -56,7 +56,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![alt text]()
+![alt text](https://github.com/Mohdaimaan/Tapeout-story-RTL2GDS/blob/main/Week-0/yosys.jpeg)
 
 
 ## ✅ **Iverilog Installation**
